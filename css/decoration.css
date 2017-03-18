@@ -1,0 +1,40 @@
+#s_logo{
+	float: left;
+}
+#l_logo{
+	position: absolute;
+	left: 39.5%;
+	z-index: 2;
+	top: 10%;
+}
+#float_text{
+	position: absolute;
+	left: 40.6%;
+	z-index: 3;
+	top: 70%;
+	font-size: 36px;
+	color: white;
+}
+/*曾经想加个文字的半透明底色的，放弃*/
+/*#float_left{
+	position: absolute;
+	left: 40.6%;
+	z-index: 2;
+	top: 60%;
+	background: black;
+	opacity: 0.1;
+	width: 126px;
+	height: 51.4333px;
+	border-radius: 20% 0 0 20%;
+}
+#float_right{
+	position: absolute;
+	left: 50%;
+	z-index: 2;
+	top: 60%;
+	background: white;
+	opacity: 0.2;
+	width: 126px;
+	height: 51.4333px;
+	border-radius: 0 20% 20% 0;
+}*/
